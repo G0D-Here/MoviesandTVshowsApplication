@@ -10,7 +10,10 @@ An AI-powered landmark recognition app using **Jetpack Compose, CameraX, and Ten
 ## 🛠 Tech Stack  
 - **Kotlin** (Jetpack Compose)  
 - **CameraX** (Live camera feed)  
-- **TensorFlow Lite** (AI model for classification)  
+- **TensorFlow Lite** (AI model for classification)
+- ![WhatsApp Image 2025-03-06 at 15 32 31_88834416](https://github.com/user-attachments/assets/339e7832-38a9-4c47-86da-098d24e1fca0)
+![WhatsApp Image 2025-03-06 at 15 32 32_f64dc561](https://github.com/user-attachments/assets/39b6cd7a-9ad4-432b-bdce-08c5c2ab258b)
+
 
 ## 📸 How It Works  
 1️⃣ Captures camera frames using CameraX  
